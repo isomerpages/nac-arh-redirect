@@ -12,7 +12,7 @@ sections:
         29 April 2023 to provide greater access and a more seamless user
         experience.
       background: /images/isomer.png
-      button: NAC Website
+      button: NAC's Website
       url: https://go.gov.sg/arh
       key_highlights:
         - title: NAC's Facebook
