@@ -11,7 +11,6 @@ sections:
       subtitle: The portal has been incorporated with the NAC website with effect from
         29 April 2023 to provide greater access and a more seamless user
         experience.
-      background: /images/isomer.png
       button: NAC's Website
       url: https://go.gov.sg/arh
       key_highlights:
