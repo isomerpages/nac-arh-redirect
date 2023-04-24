@@ -4,14 +4,16 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: ARH Subscribers Portal
-      subtitle: We Are Moving!
+      title: ARH Subscribers Portal - We Are Moving!
+      subtitle: The portal has been incorporated with the NAC website with effect from
+        29 April 2023 to provide greater access and a more seamless user
+        experience.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: NAC Website
+      url: https://go.gov.sg/arh
       key_highlights:
         - title: NAC's Facebook
           description: ""
@@ -25,10 +27,4 @@ sections:
         - title: ARH Telegram
           description: ""
           url: https://safe.menlosecurity.com/https:/t.me/artsresourcehub
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
