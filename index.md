@@ -26,5 +26,5 @@ sections:
         - title: ARH Telegram
           description: ""
           url: https://safe.menlosecurity.com/https:/t.me/artsresourcehub
-      background: /images/60605e.png
+      background: /images/000000.png
 ---
