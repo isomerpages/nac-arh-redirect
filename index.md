@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ARH Subscribers Portal - We Are Moving!
+      title: ARH Subscribers Portal Has Moved!
       subtitle: The portal has been incorporated with the NAC website with effect from
         29 April 2023 to provide greater access and a more seamless user
         experience.
