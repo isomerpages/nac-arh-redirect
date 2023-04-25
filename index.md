@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ARHM Redirection
+title: ARH Subscribers Portal
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
