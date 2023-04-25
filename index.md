@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ARH Subscribers Portal Has Moved!
+      title: ARH Subscribers Portal
       subtitle: The portal has been incorporated with the NAC website with effect from
         29 April 2023 to provide greater access and a more seamless user
         experience.
@@ -26,5 +26,5 @@ sections:
         - title: ARH Telegram
           description: ""
           url: https://safe.menlosecurity.com/https:/t.me/artsresourcehub
-      background: /images/60605e.png
+      background: /images/20200114nac005 25.png
 ---
