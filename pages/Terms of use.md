@@ -71,4 +71,4 @@ NAC reserves the right to disable any unauthorized links or frames and disclaims
 
 **Governing Law**
 
-These Terms and Conditions of Use shall be governed and construed in accordance with laws of Singapore.   
+These Terms and Conditions of Use shall be governed and construed in accordance with laws of Singapore.
