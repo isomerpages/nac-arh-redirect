@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
+title: ARH Subscribers Portal
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: ARH Subscribers Portal
+      subtitle: This portal has been incorporated within the NAC website with effect
+        from 29 April 2023 to provide greater access and a more seamless user
+        experience.
+      button: NAC's Website
+      url: https://go.gov.sg/arh
+      key_highlights:
+        - title: NAC's Facebook
+          description: ""
+          url: https://www.facebook.com/NACSingapore
+        - title: NAC's Instagram
+          description: ""
+          url: https://www.instagram.com/nacsingapore
+        - title: NAC's LinkedIn
+          description: ""
+          url: https://www.linkedin.com/company/national-arts-council/
+        - title: ARH's Telegram
+          description: ""
+          url: https://safe.menlosecurity.com/https:/t.me/artsresourcehub
+      background: /images/20200114nac005 50.png
 ---
-
